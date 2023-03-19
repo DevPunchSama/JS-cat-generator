@@ -1,0 +1,32 @@
+img {
+    width : 40vw;
+    height : 60vh;
+    max-width : 600px;
+    max-height : 550px;
+    text-align: center;
+
+    }
+
+    .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+        max-width: 650px;
+        max-height: 600px;
+        border: 3px solid #676772;
+        background: #676772;
+        margin-left: 450px;
+        padding: 25px 25px;
+
+    }
+    .navtitre{
+     text-align: center;
+    }
+    /*.frame{
+        border: 2px solid black; /* ajoute une bordure noire de 2px autour de l'image */
+       /* padding-top: 10px; /* ajoute un espacement entre l'image et la bordure */
+       /* padding-left: 10px;/*
+        padding-bottom: 10px;
+        padding-right: 10px;
+    }
